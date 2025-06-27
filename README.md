@@ -88,4 +88,4 @@ JobSeeker Platform adalah aplikasi web full-stack modern yang memfasilitasi pros
 - **Version Control:** Git & GitHub
 - **Deployment:** Vercel (recommended)
 
-## 📁 Struktur Project
+
